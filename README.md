@@ -1,6 +1,6 @@
-# Project Title
+# Netshell Project
 
-One Paragraph of project description goes here
+Our website which is called Netshell is a video community that allows young people to watch and share videos, pushing videos based on personal choices and video quality. This helps users to find the videos which contain right values and suit their tastes. It's a open community designed for young people, everyone can create an account. Users can upload videos and download videos,they can make comments and share their own ideas about the video; For the low quality videos, they can report them and the administrator can remove them from sites.
 
 ## Getting Started
 
@@ -8,80 +8,35 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
+Sice it is a website, you just need a browser.
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+We plan for continual deployment once we get our application farther along. We would have update once a month and consistently pushing out updates and patches for the best experience for our users.
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+The major technology we used is HTML,PHP and JavaScript languages.
+Our development environment depends on personal preference, several people use NetBeans, several use Notepad++.
+We use 'http-server' command and Xampp to create local server for develop test, rent a server for online test.
+The reason for why we choose these technologies is: they are the best and most familiar tools for us to develop this website
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details and [CODE_OF_CONDUCT] to see our code of conduct.
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+We will update the page in real time, so visitors should be able to see it after refresh the web.
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+Chufeng Zhou, Ziang Zhou, Yuanbo Xu, Shangyi Dai, Zhenyu Yang and Hui Wan
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the Boost Software License  - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+A template to make good README.md: https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
