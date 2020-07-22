@@ -23,7 +23,7 @@ The reason for why we choose these technologies is: they are the best and most f
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details and [CODE_OF_CONDUCT] to see our code of conduct.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details and [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) to see our code of conduct.
 
 ## Versioning
 
