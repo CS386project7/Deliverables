@@ -3,7 +3,7 @@
 When contributing to this repository, please first discuss the change you wish to make with us via slack, QQ,
 or email before make any changes.
 
-Please observe our membership code[CONTRIBUTING.md](CONTRIBUTING.md).
+Please observe our membership code[CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
 
 ## About Pull
 
